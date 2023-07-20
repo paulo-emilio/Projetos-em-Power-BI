@@ -2,7 +2,7 @@
 
 Projeto feito durante o curso "Formação Power BI" da Alura
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
 | -------------  | --- |
 | :sparkles: Nome        | **Dashboards Power BI**
 | :label: Tecnologias | power bi, excel, google sheets, m, dax
