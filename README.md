@@ -4,7 +4,7 @@ Projeto feito durante o curso "Formação Power BI" da Alura
 
 | :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
 | -------------  | --- |
-| :sparkles: Nome        | **Dashboards Power BI**
+| :sparkles: Nome        | **People Analytics**
 | :label: Tecnologias | power bi, excel, google sheets, m, dax
 | :rocket: URL         | [Dashboard - People Analytics](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
