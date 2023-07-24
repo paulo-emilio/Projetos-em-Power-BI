@@ -20,4 +20,4 @@ Projetos feitos durante minha "Formação Power BI" na Alura
 
 ## Detalhes do projeto
 
-Projeto desenvolvido durante o curso "Formação Power BI" da Alura. Durante o curso, coletamos bancos de dados da internet, realizamos o tratamento dos dados utilizando a linguagem M e criamos Dashboards utilizando a linguagem DAX.
+Projetos desenvolvidos durante o curso "Formação Power BI" da Alura. Durante a formação, coletei bancos de dados da internet, realizei o tratamento dos dados utilizando a linguagem M e criei Dashboards utilizando a linguagem DAX.
