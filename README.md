@@ -1,6 +1,6 @@
 # Dashboard - People Analytics
 
-Projeto feito durante o curso "Formação Power BI" da Alura
+Projetos feitos durante minha "Formação Power BI" na Alura
 
 | :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
 | -------------  | --- |
