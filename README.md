@@ -1,4 +1,4 @@
-# Dashboard - People Analytics
+# Dashboards Power BI
 
 Projetos feitos durante minha "Formação Power BI" na Alura
 
