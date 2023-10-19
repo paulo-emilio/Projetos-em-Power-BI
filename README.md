@@ -1,6 +1,6 @@
 # Dashboards Power BI
 
-Projetos feitos durante minha "Formação Power BI" na Alura
+Projetos desenvolvidos como parte da minha "Formação Power BI" na Alura.
 
 | :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
 | -------------  | --- |
@@ -19,4 +19,4 @@ Projetos feitos durante minha "Formação Power BI" na Alura
 
 ## Detalhes do projeto
 
-Projetos desenvolvidos durante o curso "Formação Power BI" da Alura. Durante a formação, coletei bancos de dados da internet, realizei o tratamento dos dados utilizando a linguagem M e criei Dashboards utilizando a linguagem DAX.
+Estes projetos foram desenvolvidos durante a minha formação "Power BI" na Alura. Durante a formação, coletei dados da internet, realizei o tratamento dos dados usando a linguagem M e criei Dashboards usando a linguagem DAX.
