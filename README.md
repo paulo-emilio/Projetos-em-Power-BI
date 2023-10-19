@@ -1,4 +1,4 @@
-# Dashboards Power BI
+# Projetos de Dashboards Power BI
 
 Projetos desenvolvidos como parte da minha "Formação Power BI" na Alura.
 
